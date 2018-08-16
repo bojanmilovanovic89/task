@@ -1,2 +1,2 @@
 # task
-Task for Adidas
+Task
